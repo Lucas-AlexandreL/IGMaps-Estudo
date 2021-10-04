@@ -6,6 +6,6 @@ target 'IGMaps' do
   use_frameworks!
 
   # Pods for IGMaps
-  pod 'GoogleMaps', '5.1.0'
+  pod 'GoogleMaps','5.1.0'
 
 end
